@@ -8,8 +8,12 @@
 * Be able to sort listings by price, title, or release date
 * Download a PDF of all listings
 * Share a book to your social media profiles
-The system will have the following  3 pages
+
+
+### The system will have the following  3 pages
 * Search home page 
 * Listing page with filters
 * Book detail page
-The system will follow RESTful practices for API calls and has  a robust database structure that is easily extensible. 
+
+
+#### The system will follow RESTful practices for API calls and has  a robust database structure that is easily extensible. 
